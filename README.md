@@ -11,4 +11,4 @@ This is Repository **for Group 9**.
 **Info**
 - SRS Documentation
 - Updated SRS Documentation "Design Specification"
-- We exchange assighnments through email, then posting most updated verison of our work onto Github
+- We exchange asighnments through email, then posting most updated verison of our work onto Github
