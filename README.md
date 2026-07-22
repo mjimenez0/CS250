@@ -8,7 +8,7 @@ This is Repository **for Group 9**.
 - Brylee Barsanti
 - Mark Jimenez
 
-** Info**
+**Info**
 - SRS Documentation
 - Updated SRS Documentation "Design Specification"
 - We exchange assighnments through email, then posting most updated verison of our work onto Github
