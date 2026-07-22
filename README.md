@@ -1,2 +1,9 @@
-CS 250 SUMMER CLASS  <br>
-This is for group 9 Brylee Barsanti and Mark Jimenez <br>
+# CS250
+
+## Summer Class 2026
+
+This is Repository **for Group 9**. 
+
+**Members**
+- Brylee Barsanti
+- Mark Jimenez
